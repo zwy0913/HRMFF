@@ -1,2 +1,2 @@
 # HRMFF
-The HRMFF multi-focus testing dataset.
+The HRMFF testing dataset for high-resolution multi-focus image fusion evaluation.
